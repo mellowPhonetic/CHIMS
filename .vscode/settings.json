@@ -1,0 +1,13 @@
+{
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"files.exclude": {
+		"**/*.asset": true,
+		"**/*.mat": true,
+		"**/*.meta": true,
+		"**/*.unity": true,
+	},
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
+	"dotnet.preferCSharpExtension": true,
+}
